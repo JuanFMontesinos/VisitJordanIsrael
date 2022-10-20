@@ -15,6 +15,11 @@ La ciudad más cercana por el lado israelí es Eilat y la más cercana por el la
     * Menos de 2 noches + no petra 60 JD (85€)
 * ADEMÁS Si no se pasan más de 3 noches en Jordania hay que pagar 10 JD de tasa de salida (en cualquier frontera).
 # Lado de jordania  
+## De la frontera a Aqaba  
+* La frontera está a unos 10 km (20 minutos) en coche de Aqaba. La forma más fácil de llegar es en taxi. 
+* Hay precios oficiales, pero los taxistas suelen pedir más. Ser educado e insistir en el precio oficial suele funcionar.  
+
+![](taxi_aqaba.jpg)  
 
 ##  Procedimientos a través del cruce fronterizo de South Wadi Araba
 Una pagina aparentemente oficial es [aqaba.jo (ingles)](https://aqaba.jo/Pages/Viewpage/9/South_Wadi_Araba_Crossing_Boarder_Regulations) donde se pueden 
