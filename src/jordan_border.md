@@ -43,3 +43,12 @@ verificación del manifiesto y las tarifas de servicio a la salida del cruce fro
 
 Puedes descargar el formulario en [Aquí](https://aqaba.jo/EchoBusV3.0/SystemAssets/PDFs/south%20wadi%20arba.pdf)  
 
+# Lado Israelí  
+De lunes a jueves 6:30 am - 20:00  
+Viernes y sábado 8:00 am - 20:00
+## De la frontera al centro de Eilat  
+La frontera se encuentra a unos 6 km (10 minutos) del centro de Eliat. Aproximadamente 40 NIS (unos 10-12€).  
+##  Procedimientos a través del cruce fronterizo de South Wadi Araba  
+* Control de pasaporte a la entrada  
+* Tasa de salida 105 NIS (30€)
+* Te dan un papelito de salida para adjuntar al pasaporte (en Israel no sellan los pasaportes)
