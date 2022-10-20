@@ -1,7 +1,7 @@
 # Summary
 - [Intro](./intro.md)
-- [Israel]()  
-  - [Tel Aviv]()  
+- [Israel](./israel.md)  
+  - [Tel Aviv](./telaviv.md))  
   - [Jerusalén]()  
 - [Jordania]()
   - [Wadi Rum](./wadi_rum.md)

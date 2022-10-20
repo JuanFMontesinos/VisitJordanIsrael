@@ -14,6 +14,7 @@ La ruta a tomar es principalmente la siguiente:
 
 
 ##  El clima  
+
 ## Enchufes  
 En Israel los enchufes son de tipo C y H. La corriente funciona a 230 V y 50 Hz (como en España). 
 No Hace falta llevar adaptador ya que, aunque el más común de los enchufes es el H, es compatible con el C. 
@@ -24,7 +25,6 @@ Voy a suponer que se puede ir a pelo :)
 
 ![](sockets.gif)  
 ![](plug.png)  
-
 
 Las tarifas de todas los monumentos de Jordania se pueden consultar [Aquí](https://international.visitjordan.com/page/17/entrancefees.aspx)  
 

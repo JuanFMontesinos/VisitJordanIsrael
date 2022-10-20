@@ -4,7 +4,7 @@ Petra es mucho más que la simple pared de piedra que se ve en las fotos. Es tod
 Se recomienda pasar varios días 2/3.  
 
 
-# Tarifas y tickets  
+## Tarifas y tickets  
 El centro de visitantes abre de las 6:00 a las 18:00 en verano y de las 6:00 a las 16:00 en invierno.
 Los tickets solo se pueden comprar presencialmente en el centro de visitantes. Varían en función de cuantos días se 
 permanezca en Petra.  
@@ -24,7 +24,7 @@ compré ya que vale unos 75 JD
 
 Las tarifas de todas los monumentos de Jordania se pueden consultar [Aquí](https://international.visitjordan.com/page/17/entrancefees.aspx)  
 
-# Como llegar y Dónde dormir  
+## Como llegar y Dónde dormir  
 La ciudad más cercana a petra es [Wadi Musa](https://www.google.com/maps/place/Centro+de+visitantes+de+Petra/@30.3227027,35.4750768,15z/data=!4m15!1m8!3m7!1s0x15016930021ab6b1:0xe43a697bc3a3e0b9!2sWadi+Musa,+Jordania!3b1!8m2!3d30.3216354!4d35.4801251!16s%2Fm%2F03nx74h!3m5!1s0x15016ecfe4a93d2f:0x8e7cb67c9e66a3f3!8m2!3d30.3243506!4d35.4678788!16s%2Fg%2F11rrz5r25). Muchos hoteles ofrecen
 lanzaderas gratuito hasta Petra. En cualquier caso, un taxi puede costar unos 5 JD (6€).  
 Para desplazarte hasta Petra desde Aqaba o Amman se puede coger un taxi o un autobús [https://www.jett.com.jo/en/](https://www.jett.com.jo/en/).
@@ -32,4 +32,22 @@ A día de hoy vale 15 JD. Alternativamente, se puede alquilar un coche o coger u
 
 # Es enorme, ¿Qué ver?  
 He aquí la oficial página [Monumentos de Petra](https://visitpetra.jo/Pages/viewpage.aspx?pageID=157)  
-No le voy a dar muchas vueltas al asunto, rec
+
+Muchas personas visitan Petra en un día, pero al ser un sitio tan grande, hay que planificar la ruta 
+y concentrarse en los aspectos más destacados: el paseo por el Siq hasta el Tesoro, el anfiteatro,
+la calle Colonnaded, Qasr al-Bint y Tumbas Reales. También puede agregar la caminata hasta el Monasterio, 
+que es de alrededor de 45 minutos en cada sentido.
+
+Si se está más de un día, se puede tomar con más calma y agregar algunas de las caminatas de Petra, 
+como el empinado sendero hacia High Place of Sacrifice (4–5 horas) o el sendero Al Khubtha (2–2.5 horas)
+para esas famosas vistas deel Tesoro.
+
+Fotos de todo un poco y comentarios más detallados (inglés) 
+[Aquí](https://www.earthtrekkers.com/best-things-see-petra-jordan/)
+
+## Comer y beber
+La mayoría de hoteles proveen de un picnic si se pide con antelación. En la entrada hay varios puestos donde se puede 
+comprar bebida y snacks. El precio destro de Petra es bastante más elevado. 
+## Vestimenta  
+Es una zona extensa llena de rocas y polvo. Se recomiendan deportivas cómodas o de montaña. Nótese que Jordania es un
+país musulmán, por ende, es recomendable cubrirse las piernas y los hombros.
