@@ -1,7 +1,10 @@
 # Visitar Petra  
 La pagina oficial es [https://visitpetra.jo](https://visitpetra.jo)  
 Petra es mucho más que la simple pared de piedra que se ve en las fotos. Es toda una enorme ciudad milenaria. 
-Se recomienda pasar varios días 2/3.  
+En mi opinión personal, si se llega a las 6 a.m. y se tiene una buena forma física, se puede ver todo en un día. En 
+caso contrario, tranquilamente se puede ver todo en dos días. Un hecho algo triste es que está muy mal conservado. Los
+monumentos están tallados en piedra bastante arenosa y la gente deambula por todas partes. Hay capiteles romanos tirados
+por el suelo y ganado en el interior de los monumentos, cuando no mierda (literalmente) y basura.  
 
 
 ## Tarifas y tickets  
@@ -30,24 +33,36 @@ lanzaderas gratuito hasta Petra. En cualquier caso, un taxi puede costar unos 5 
 Para desplazarte hasta Petra desde Aqaba o Amman se puede coger un taxi o un autobús [https://www.jett.com.jo/en/](https://www.jett.com.jo/en/).
 A día de hoy vale 15 JD. Alternativamente, se puede alquilar un coche o coger un taxi.  
 
-# Es enorme, ¿Qué ver?  
-He aquí la oficial página [Monumentos de Petra](https://visitpetra.jo/Pages/viewpage.aspx?pageID=157)  
+# Precios y estafas dentro de Petra  
+Antaño, los beduinos solían poblar Petra. Al convertirse esta en patrimonio de la humanidad, los beduinos fueron reubicados en
+una ciudad cercana. Sin embargo, tienen docenas de puestos y negocios en Petra. A nivel personal me resultó muy hostigante e 
+incluso desagradable. Tratan de sacarte la máxima cantidad de dinero posible. A continución, describo los puntos más 
+conflictivos.  
+## La vista del tesoro desde arriba.  
+Es la foto icónica de Petra. El tesoso es de los primeros monumentos que se ven al entrar en Petra. Al llegar a él, 
+te abordaran varios beduinos ofreciéndote subir a la cima. Piden cantidades exorbitantes de dinero por ello y te impiden
+el paso si no les pagas. Después de discutir con ellos, llamarlos de todo y ya os imagináis el resto, subimos 2 personas
+por 7 JD. En general pueden pedir tranquilkamente 10 o 20 por persona. 
+**NO ES NECESARIO PAGARLES** La realidad es que la mejor de las vistas se tiene al hacer el trekk de las tumbas reales.
+Tardas un par de horas en subir y bajar, y por el camino hay varios miradores que merecen la pena.  
 
-Muchas personas visitan Petra en un día, pero al ser un sitio tan grande, hay que planificar la ruta 
-y concentrarse en los aspectos más destacados: el paseo por el Siq hasta el Tesoro, el anfiteatro,
-la calle Colonnaded, Qasr al-Bint y Tumbas Reales. También puede agregar la caminata hasta el Monasterio, 
-que es de alrededor de 45 minutos en cada sentido.
+## Los burros  
+El recorrido más arduo en Petra es el del Monasterio. Se encuentra al final de la ciudad. Al comienzo del camino 
+probablemente te aborden ofreciendote subir en burro. Yo iba con una persona relativamente mayor y acabamos pagando
+10 JD por dos personas (trayecto solo ida). En mi opinión fue un precio bajo y aprovechando que llegamos pronto, cuando
+al resto de turistas les faltaba todavía un rato largo para llegar y habia poca demanda. Otros turistas (americanos) 
+pagaron 70 JD por persona... Es necesario negociar el precioo
 
-Si se está más de un día, se puede tomar con más calma y agregar algunas de las caminatas de Petra, 
-como el empinado sendero hacia High Place of Sacrifice (4–5 horas) o el sendero Al Khubtha (2–2.5 horas)
-para esas famosas vistas deel Tesoro.
 
-Fotos de todo un poco y comentarios más detallados (inglés) 
-[Aquí](https://www.earthtrekkers.com/best-things-see-petra-jordan/)
+## Comer y beber 2022
+En general no compré nada dentro de petra. Si sabes donde buscar, hay comida muy buena y barata en la ciudad.
+En esta calle hay una tienda de dulces, donde una bandeja de dulces arabes cuesta 1 JD. También hay otra tienda de
+falafel, 20 falafel por 1 JD o 1 "durum" de falafel y patatas por 1 JD.  
+8FFH+75F، الشارع السياحي،, Wadi Musa, Jordania  
+Orientativamente (en una tienda de gente honrada que no joda a los turistas) una botella de agua grande vale 0.5 JD
+Un plato de arroz o un shawarma vale unos 2.5 JD, un plato de cordero unos 5 JD.  
+En las zonas turísticas encontrareis precios inflados y platos por 12 JD etc...  
 
-## Comer y beber
-La mayoría de hoteles proveen de un picnic si se pide con antelación. En la entrada hay varios puestos donde se puede 
-comprar bebida y snacks. El precio destro de Petra es bastante más elevado. 
 ## Vestimenta  
 Es una zona extensa llena de rocas y polvo. Se recomiendan deportivas cómodas o de montaña. Nótese que Jordania es un
 país musulmán, por ende, es recomendable cubrirse las piernas y los hombros.
